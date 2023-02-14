@@ -28,3 +28,4 @@ class Bard():
 
         def level_up(self, rollDice):
          self.life += life_level(rollDice, 8, self.lifeDice, self.modifiers["con"])
+
