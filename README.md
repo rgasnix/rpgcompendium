@@ -1,6 +1,7 @@
 # RPG Compendium
 A RPG Master tool to manager RPG Table.
 
+# Dependencies
 ```
 # Fedora/RHEL/CentOS
 sudo dnf install python3-gobject gtk3
